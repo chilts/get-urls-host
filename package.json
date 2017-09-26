@@ -1,0 +1,40 @@
+{
+  "name": "get-urls-host",
+  "version": "1.0.0",
+  "description": "Gets all URLs from a string from a particular host - uses https://npm.im/get-urls",
+  "main": "index.js",
+  "homepage": "https://github.com/chilts/get-urls-host#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chilts/get-urls-host.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chilts/get-urls-host/issues"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "get-urls": "^7.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.8.0"
+  },
+  "author": {
+    "name": "Andrew Chilton",
+    "email": "andychilton@gmail.com",
+    "url": "https://chilts.org"
+  },
+  "keywords": [
+    "get",
+    "urls",
+    "uris",
+    "find",
+    "scrape",
+    "text",
+    "string",
+    "host",
+    "domain"
+  ],
+  "license": "ISC"
+}
